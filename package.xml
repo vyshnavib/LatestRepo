@@ -14,6 +14,11 @@
         <name>Community</name>
     </types>
     <types>
+        <members>standard__AppLauncher</members>
+        <members>standard__Chatter</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
         <members>Account</members>
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
