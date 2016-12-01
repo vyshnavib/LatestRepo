@@ -3,6 +3,7 @@
     <version>37.0</version>
     <types>
         <members>NewClass</members>
+        <members>NewClass1</members>
         <members>SrcTestClass</members>
         <members>TrialTest</members>
         <name>ApexClass</name>
