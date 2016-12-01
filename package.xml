@@ -16,6 +16,7 @@
     <types>
         <members>standard__AppLauncher</members>
         <members>standard__Chatter</members>
+        <members>standard__Community</members>
         <name>CustomApplication</name>
     </types>
     <types>
