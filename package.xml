@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>37.0</version>
     <types>
+        <members>NewClass</members>
         <members>SrcTestClass</members>
         <members>TrialTest</members>
         <name>ApexClass</name>
